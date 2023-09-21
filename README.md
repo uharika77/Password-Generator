@@ -9,15 +9,10 @@ This Password Generator allows you to create strong and secure passwords with va
 ## Features
 
 - Generate random passwords with customizable options.
-- 
-- Choose password length from 1 to 30 characters.
-- 
+- Choose password length from 1 to 30 characters. 
 - Include or exclude lowercase letters, uppercase letters, numbers, and symbols.
-- 
 - Option to exclude duplicate characters.
-- 
 - Option to include spaces.
-- 
 - Copy generated passwords to your clipboard.
 
   ## Usage
@@ -32,4 +27,4 @@ This Password Generator allows you to create strong and secure passwords with va
 4. Click the "copy_all" button to copy the generated password to your clipboard.
 
 #Live Demo
-[live demo]()
+[live demo](https://uharika77.github.io/Password-Generator/)
