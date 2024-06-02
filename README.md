@@ -15,7 +15,7 @@ This Password Generator allows you to create strong and secure passwords with va
 - Option to include spaces.
 - Copy generated passwords to your clipboard.
 
-  ## Usage
+## Usage
 
 
 1. Adjust the password length using the slider.
@@ -28,4 +28,4 @@ This Password Generator allows you to create strong and secure passwords with va
 
 ## DEMO
 
-[live demo](https://uharika77.github.io/Password-Generator/)
+[Click here](https://uharika77.github.io/Password-Generator/)
